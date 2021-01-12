@@ -11,9 +11,9 @@
   - [堆](./data-structure/heap.md)
   - [优先队列](./data-structure/priority-queue.md)
   - 树
-    - [二叉树](./data-structure/binary-tree.md)
-    - [二叉搜索树](./data-structure/binary-search-tree.md)
-    - [字典树](./data-structure/trie-tree.md)
+    - [二叉树](./data-structure/tree/binary-tree.md)
+    - [二叉搜索树](./data-structure/tree/binary-search-tree.md)
+    - [字典树](./data-structure/tree/trie-tree.md)
 - 算法思想
   - [剪枝](./thinking/prune.md)
   - [广度优先、深度优先搜索](./thinking/depth-breadth-first-search.md)
@@ -23,3 +23,8 @@
   - [贪心算法](./thinking/greedy.md)
   - [动态规划](./thinking/dynamic-programming.md)
   - [并查集](./thinking/union-find.md)
+
+- 其他
+  - [LRU](./other/lru.md)
+  - [布隆过滤器](./other/bloom-filter.md)
+  
