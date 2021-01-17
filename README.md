@@ -14,6 +14,15 @@
     - [二叉树](./data-structure/tree/binary-tree.md)
     - [二叉搜索树](./data-structure/tree/binary-search-tree.md)
     - [字典树](./data-structure/tree/trie-tree.md)
+  - 图
+    - 有向图
+    - 无向图
+    - 有环图
+    - 无环图
+    - 完全图
+    - 稠密图
+    - 稀疏图
+    - 拓扑图
 - 算法思想
   - [剪枝](./thinking/prune.md)
   - [广度优先、深度优先搜索](./thinking/depth-breadth-first-search.md)
@@ -23,7 +32,16 @@
   - [贪心算法](./thinking/greedy.md)
   - [动态规划](./thinking/dynamic-programming.md)
   - [并查集](./thinking/union-find.md)
-
+- 排序
+  - 冒泡排序
+  - 选择排序
+  - 插入排序
+  - 快速排序
+  - 堆排序
+  - 归并排序
+  - 希尔排序
+  - 桶排序
+  - 基数排序
 - 其他
   - [LRU](./other/lru.md)
   - [布隆过滤器](./other/bloom-filter.md)
